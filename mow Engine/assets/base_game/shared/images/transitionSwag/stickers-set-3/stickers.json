@@ -1,0 +1,10 @@
+{
+  "name": "stickers-set-3",
+  "artist": "Yasa",
+  "stickers": {
+    "yasa": ["yasa1", "yasa2", "yasa3", "yasa4"]
+  },
+  "stickerPacks": {
+    "alt": ["yasa"]
+  }
+}
